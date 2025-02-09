@@ -5,4 +5,4 @@ My education:
 - Bachelor of Philosophy at Russian Christian Humanitarian Academy, Saint Petersburg
 
 Skills:
-Python, Django, Flask, HTML, CSS, SQL, Sqlite, PostgreSQL, Poetry, UV, CI/CD, Linux, http, english, 
+Python, Django, Flask, HTML, CSS, SQL, Sqlite, PostgreSQL, Poetry, UV, CI/CD, Linux, HTTP, API, Bootstrap
